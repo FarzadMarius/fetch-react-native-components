@@ -9,6 +9,13 @@ Update date: Tue Jan 26 2016 09:47:10 GMT+0800 (CST)
 
 ------
 
+### [react-native-minimize](https://github.com/FarzadMarius/react-native-minimize-app)
+
+Minimize app for React Native on Android And iOS.
+
+![demo](http://elenor.ir/MyFiles/MinimizeApp.gif)
+
+------
 
 ### [apsl-react-native-button](https://github.com/APSL/react-native-button)
 
